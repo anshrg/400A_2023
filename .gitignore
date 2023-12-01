@@ -1,0 +1,7 @@
+# Exclude ASTR 400A Mesa Models
+*/mesa
+*/low-metal-low-mass
+*/high-metal-low-mass
+
+# Jupyter Notebook
+.ipynb_checkpoints
